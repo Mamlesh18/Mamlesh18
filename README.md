@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://mamlesh18.github.io/mamleshva_portfolio/](https://mamlesh18.github.io/mamleshva_portfolio/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mamlesh-va-55a356233/](https://www.linkedin.com/in/mamlesh-va-55a356233/)
-
 - 💬 Ask me about **Python, Flask and React**
 
 - 📫 How to reach me **mamlesh.va06@gmail.com**
