@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mamlesh.va06@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PZ-OXzMXijgiOWDPfeNlNvKfpOJR1mVz/view?usp=sharing](https://drive.google.com/file/d/1PZ-OXzMXijgiOWDPfeNlNvKfpOJR1mVz/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/10y0oe8owBSqAVDSZVyhva48SQjhn1YsF/view?usp=sharing](https://drive.google.com/file/d/10y0oe8owBSqAVDSZVyhva48SQjhn1YsF/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
