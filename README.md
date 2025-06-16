@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mamlesh VA</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **ChatterPy - Own Startup**
 
 - 🌱 I’m currently learning **Web Framework + Deep Learning Framework**
 
