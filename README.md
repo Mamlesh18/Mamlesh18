@@ -23,7 +23,7 @@ Voice AI · Agentic architectures · Distributed backend systems.
 | | |
 |---|---|
 | **Products shipped & sold** | Legal AI → acquired by a US law firm & VALSCO · Text-to-SQL engine → acquired by a Bangalore startup |
-| **Currently building** | [MemDream](https://github.com/YOUR_USERNAME/memdream) — open-source memory layer for AI agents |
+| **Currently building** | [MemDream](https://github.com/Mamlesh18/memdream) — open-source memory layer for AI agents |
 | **Freelance / private work** | 20+ delivered projects |
 | **Open source** | 1000+ contributions in the last year |
 | **Research** | 4 papers · 2 patents filed |
@@ -66,9 +66,9 @@ My path started in robotics — autonomous rovers, YOLO-based vision, edge infer
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mamlesh18/Mamlesh18/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mamlesh18/Mamlesh18/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mamlesh18/Mamlesh18/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br/><br/>
