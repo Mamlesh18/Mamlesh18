@@ -62,7 +62,6 @@ My path started in robotics — autonomous rovers, YOLO-based vision, edge infer
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Mamlesh18&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mamlesh18&theme=github-compact&hide_border=true" width="48%" />
 </div>
 
 <picture>
