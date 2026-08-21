@@ -4,8 +4,8 @@
 
 ### Mamlesh VA
 
-I design and ship AI systems that hold up in production — not just in a demo.
-Voice AI · Agentic architectures · Distributed backend systems.
+I design and ship AI systems that hold up in production - not just in a demo.
+Voice AI · Agentic architectures · Multi Agents · MCP .
 
 <a href="https://mamlesh.me"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mamlesh-va-55a356233/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -35,18 +35,18 @@ Voice AI · Agentic architectures · Distributed backend systems.
 
 ## What I Build
 
-**Voice AI** — real-time STT/TTS pipelines, sub-second transcription, interrupt & turn-taking handling, telephony and WhatsApp Calling, avatar-based and on-prem voice agents.
+**Voice AI** - real-time STT/TTS pipelines, sub-second transcription, interrupt & turn-taking handling, telephony and WhatsApp Calling, avatar-based and on-prem voice agents.
 `Deepgram` `Whisper` `LiveKit` `WebRTC` `Twilio`
 
-**Agentic Systems** — multi-agent orchestration, A2A communication, tool calling, agent memory, structured outputs, long-running workflows. Shipped a system with 7 agents, 52 tools, full A2A comms.
+**Agentic Systems** - multi-agent orchestration, A2A communication, tool calling, agent memory, structured outputs, long-running workflows. Shipped a system with 7 agents, 52 tools, full A2A comms.
 
-**Backend & Distributed Systems** — gRPC, SSE, WebSockets, event-driven pipelines, async processing at scale.
+**Backend & Distributed Systems** - gRPC, SSE, WebSockets, event-driven pipelines, async processing at scale.
 `FastAPI` `Go` `Node.js` `Kafka` `RabbitMQ` `Redis`
 
-**Infrastructure** — containerized, orchestrated, observable systems.
+**Infrastructure** - containerized, orchestrated, observable systems.
 `Docker` `Kubernetes` `Terraform` `Azure` `GCP`
 
-My path started in robotics — autonomous rovers, YOLO-based vision, edge inference on Jetson/TensorRT — before moving into large-scale AI systems in production.
+My path started in robotics - autonomous rovers, YOLO-based vision, edge inference on Jetson/TensorRT — before moving into large-scale AI systems in production.
 
 <br/>
 
