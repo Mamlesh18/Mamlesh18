@@ -61,14 +61,14 @@ My path started in robotics — autonomous rovers, YOLO-based vision, edge infer
 ## GitHub Activity
 
 <div align="center">
-<img src="./assets/github-stats.svg" width="48%" />
-<img src="./assets/activity.svg" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mamlesh18&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mamlesh18&theme=github-compact&hide_border=true" width="48%" />
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mamlesh18/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mamlesh18/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mamlesh18/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mamlesh18/Mamlesh18/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mamlesh18/Mamlesh18/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mamlesh18/Mamlesh18/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br/><br/>
