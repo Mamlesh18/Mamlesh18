@@ -65,44 +65,6 @@ My path started in robotics — autonomous rovers, YOLO-based vision, edge infer
 </div>
 
 <br/>
-
-## Projects
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-**MemDream**
-Open-source memory layer for AI agents — long-term context, retrieval, and memory architecture for multi-agent systems.
-`Open Source` · [View on GitHub](https://github.com/Mamlesh18/memdream)
-
-</td>
-<td width="50%" valign="top">
-
-**Postcone.ai**
-Plug-and-play layer for switching between multiple RAG providers without re-architecting the retrieval stack.
-`In Development`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Legal AI**
-AI system for legal workflows — acquired by a US law firm and by VALSCO.
-`Acquired`
-
-</td>
-<td width="50%" valign="top">
-
-**Text-to-SQL**
-Natural language to SQL engine — acquired by a startup in Bangalore.
-`Acquired`
-
-</td>
-</tr>
-</table>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mamlesh18/Mamlesh18/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mamlesh18/Mamlesh18/output/github-contribution-grid-snake.svg">
