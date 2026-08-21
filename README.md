@@ -1,267 +1,82 @@
-<h1 align="center">Hi 👋, I'm Mamlesh VA</h1>
+<div align="center">
 
-<p align="center">
-  <strong>AI Engineer · Voice AI · Agentic Systems · Distributed Systems</strong>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+Engineer+%E2%80%94+Voice+AI+%2B+Agentic+Systems;Building+production-grade+LLM+systems;7+agents+%C2%B7+52+tools+%C2%B7+A2A+orchestration;Research+%E2%80%94%3E+Systems+%E2%80%94%3E+Production" alt="Typing SVG" />
 
-<p align="center">
-  I build AI systems that work in production.
-</p>
+### Mamlesh VA
 
-<p align="center">
-  <a href="https://mamlesh.me">🌐 Website</a> ·
-  <a href="https://www.linkedin.com/in/mamlesh-va-55a356233/">LinkedIn</a> ·
-  <a href="mailto:mamlesh.va06@gmail.com">Email</a>
-</p>
+I design and ship AI systems that hold up in production — not just in a demo.
+Voice AI · Agentic architectures · Distributed backend systems.
 
----
+<a href="https://mamlesh.me"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mamlesh-va-55a356233/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mamlesh.va06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://mamlesh.me/papershelf"><img src="https://img.shields.io/badge/Research-4B8BBE?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
 
-## 👨‍💻 About Me
+</div>
 
-I am an AI Engineer focused on building production systems around **Voice AI, LLMs, agents, retrieval, and real-time systems**.
+<br/>
 
-Currently, I lead Voice Agent development at **iNextLabs**, where I work across the AI and systems layer behind production voice applications.
+## Track Record
 
-My work has taken me from **autonomous robots and computer vision** to **distributed backend systems, Kubernetes, networking, multi-agent systems, and real-time Voice AI**.
+<div align="center">
 
-I like understanding systems from the inside out.
+| | |
+|---|---|
+| **Products shipped & sold** | Legal AI → acquired by a US law firm & VALSCO · Text-to-SQL engine → acquired by a Bangalore startup |
+| **Currently building** | [MemDream](https://github.com/YOUR_USERNAME/memdream) — open-source memory layer for AI agents |
+| **Freelance / private work** | 20+ delivered projects |
+| **Open source** | 1000+ contributions in the last year |
+| **Research** | 4 papers · 2 patents filed |
+| **Teaching & speaking** | 10 internship programs led · 9 guest talks · 1000+ students mentored |
 
-If an AI system works in a demo, I want to know how to make it work reliably when thousands of real users start using it.
+</div>
 
----
+<br/>
 
-## 🚀 What I Build
+## What I Build
 
-### 🎙️ Voice AI
+**Voice AI** — real-time STT/TTS pipelines, sub-second transcription, interrupt & turn-taking handling, telephony and WhatsApp Calling, avatar-based and on-prem voice agents.
+`Deepgram` `Whisper` `LiveKit` `WebRTC` `Twilio`
 
-Building real-time voice systems across multiple communication channels.
+**Agentic Systems** — multi-agent orchestration, A2A communication, tool calling, agent memory, structured outputs, long-running workflows. Shipped a system with 7 agents, 52 tools, full A2A comms.
 
-- Speech-to-Text and Text-to-Speech pipelines
-- LLM-powered voice agents
-- RAG for voice applications
-- Interrupt and turn-taking handling
-- Sub-second transcription latency
-- Real-time audio streaming
-- WhatsApp Calling
-- Telephony
-- Web-based voice agents
-- Avatar-based voice systems
-- On-premise Voice AI
+**Backend & Distributed Systems** — gRPC, SSE, WebSockets, event-driven pipelines, async processing at scale.
+`FastAPI` `Go` `Node.js` `Kafka` `RabbitMQ` `Redis`
 
-**Stack:** Deepgram · OpenAI · Gemini · Whisper · LiveKit · WebRTC · Twilio
-
----
-
-### 🤖 Agentic AI
-
-Designing systems where multiple agents and tools work together to solve complex workflows.
-
-- Multi-agent orchestration
-- A2A communication
-- Tool calling
-- Agent routing
-- Memory
-- RAG
-- Long-running workflows
-- Structured outputs
-- Agent evaluation
-
-One of my previous systems involved:
-
-**7 agents · 52 tools · A2A communication**
-
----
-
-### ⚙️ Backend & Distributed Systems
-
-I enjoy the engineering underneath AI systems just as much as the models.
-
-- REST APIs
-- gRPC
-- SSE
-- WebSockets
-- Socket programming
-- API gateways
-- Async processing
-- Concurrency
-- Message queues
-- Event-driven systems
-- Caching
-- Database design
-
-**Stack:** Python · FastAPI · Go · Node.js · Redis · RabbitMQ · Kafka · MongoDB · PostgreSQL
-
----
-
-### ☁️ Infrastructure
-
-Building and operating the systems that AI applications depend on.
-
-- Docker
-- Kubernetes
-- Terraform
-- CI/CD
-- Ingress
-- Cloud deployments
-- Monitoring
-- Distributed services
-
-**Stack:** Kubernetes · Docker · Terraform · Azure · GCP · Prometheus · Grafana
-
----
-
-## 🔬 Research → Production
-
-My engineering journey started with research and robotics.
-
-I worked on:
-
-- Autonomous ground rovers
-- Visual navigation
-- YOLO-based computer vision
-- Edge AI
-- NVIDIA Jetson
-- TensorRT
-- DeepStream
-- Multi-camera streaming
-- Socket programming
-
-That eventually led me toward building larger production systems around AI.
-
-**Research → Systems → AI → Production**
-
----
-
-## 🧠 Currently Building
-
-### MemDream
-
-An open-source project exploring **memory for AI systems and agents**.
-
-I am currently working on:
-
-- AI memory
-- Retrieval
-- Long-term context
-- Agent memory
-- Memory architecture
-- Evaluation
-
-👉 [Explore MemDream](https://github.com/YOUR_USERNAME/memdream)
-
----
-
-## 🛠️ Technology
-
-### AI
-
-`LLMs` `RAG` `Agents` `Multi-Agent Systems` `A2A` `Embeddings` `Vector Databases` `Voice AI`
-
-### Languages
-
-`Python` `Go` `TypeScript` `JavaScript`
-
-### Backend
-
-`FastAPI` `Node.js` `gRPC` `REST` `SSE` `WebSockets`
-
-### Infrastructure
-
+**Infrastructure** — containerized, orchestrated, observable systems.
 `Docker` `Kubernetes` `Terraform` `Azure` `GCP`
 
-### Data
+My path started in robotics — autonomous rovers, YOLO-based vision, edge inference on Jetson/TensorRT — before moving into large-scale AI systems in production.
 
-`MongoDB` `PostgreSQL` `Redis` `Kafka` `RabbitMQ` `FAISS` `ChromaDB`
+<br/>
 
-### Voice & Realtime
+## Stack
 
-`Deepgram` `Whisper` `OpenAI` `Gemini` `LiveKit` `WebRTC` `Twilio`
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,go,ts,js,fastapi,nodejs,docker,kubernetes,terraform,azure,gcp,postgres,mongodb,redis,kafka,grpc" />
+</div>
 
----
+<br/>
 
-## 📊 GitHub Activity
+## GitHub Activity
 
-<!-- Generated automatically -->
+<div align="center">
+<img src="./assets/github-stats.svg" width="48%" />
+<img src="./assets/activity.svg" width="48%" />
+</div>
 
-<p align="center">
-  <img src="./assets/github-stats.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
 
----
+<br/><br/>
 
-## 📈 Engineering Activity
+<div align="center">
 
-<!-- Generated automatically -->
+**[Blog](https://mamlesh.me/blogs) · [Talks](https://mamlesh.me/talks) · [Research](https://mamlesh.me/papershelf)**
 
-<p align="center">
-  <img src="./assets/activity.svg" />
-</p>
+*Build it. Understand it. Ship it.*
 
----
-
-## 🏗️ Selected Work
-
-| Project | What I worked on |
-|---|---|
-| **MemDream** | AI memory and agent systems |
-| **Voice AI Platform** | Real-time voice agents across channels |
-| **Multi-Agent System** | 7 agents, 52 tools, A2A |
-| **Autonomous Rover** | Navigation, computer vision and edge AI |
-| **AI Knowledge Systems** | RAG, crawling, vector search and LLMs |
-| **Distributed Backend** | gRPC, SSE, Kafka, Kubernetes and API gateways |
-
----
-
-## 📚 Research
-
-**4 Research Papers · 2 Patents**
-
-My research has covered:
-
-- Autonomous navigation
-- Computer vision
-- Edge computing
-- Driver assistance
-- Candidate intelligence
-
-📄 [Read my papers](https://mamlesh.me/papershelf)
-
----
-
-## ✍️ Writing & Learning
-
-I write about the things I build and the engineering decisions behind them.
-
-**AI · Voice AI · Agents · Backend · Systems · Infrastructure**
-
-🌐 [mamlesh.me/blogs](https://mamlesh.me/blogs)
-
----
-
-## 🎤 Talks & Teaching
-
-I have spoken at colleges and technical communities, and have helped **1000+ students** learn AI and engineering.
-
-I also teach AI and engineering through Infosys Springboard and my own programs.
-
-🎤 [Talks](https://mamlesh.me/talks)
-
----
-
-## 📫 Find Me
-
-🌐 [mamlesh.me](https://mamlesh.me)
-
-💼 [LinkedIn](https://www.linkedin.com/in/mamlesh-va-55a356233/)
-
-📚 [Research](https://mamlesh.me/papershelf)
-
-✍️ [Blog](https://mamlesh.me/blogs)
-
-📧 mamlesh.va06@gmail.com
-
----
-
-<p align="center">
-  <i>Build it. Understand it. Share it.</i>
-</p>
+</div>
